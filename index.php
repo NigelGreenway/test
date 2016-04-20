@@ -3,5 +3,5 @@
 
 echo sprintf(
     '%s',
-    $this->doesSomething('awesome'),
+    $this->doesSomething('awesome')
 );
